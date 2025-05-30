@@ -48,5 +48,6 @@ O usuário pode configurar diretamente pela interface:
 ---
 
 ## 🖥️ Interface da Aplicação
+![Print da aplicação](./screenshot.png)
 
 
