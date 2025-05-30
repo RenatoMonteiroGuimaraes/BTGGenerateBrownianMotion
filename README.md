@@ -50,11 +50,17 @@ O usuário pode configurar diretamente pela interface:
 ✨ Melhorias possíveis (opcionais do desafio)
 
 ✅ Múltiplas simulações (implementado)
+
 ✅ Escalas vertical e horizontal no gráfico(implementado)
+
 ⬜ Personalização visual do gráfico (cores, estilos)
+
 ⬜ Componentes mais ricos como Slider, Stepper
+
 ⬜ Testes unitários
+
 ✅ Suporte à responsividade dinâmica(implementado)
+
 ⬜ Tema claro/escuro
 
 ## 🖥️ Interface da Aplicação
